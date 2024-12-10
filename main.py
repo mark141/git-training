@@ -4,9 +4,9 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(first_name, last_name):
+def print_hi(xfirst_name, xlast_name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {first_name + " " + last_name}')  # Press Strg+F8 to toggle the breakpoint.
+    print(f'Hi, {xfirst_name + " " + xlast_name}')  # Press Strg+F8 to toggle the breakpoint.
     # really useful change
     print("nothing happens")
 
